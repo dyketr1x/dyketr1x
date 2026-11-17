@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привіт! 👋
 
-<!--
-**dyketr1x/dyketr1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мене звати Діана.
 
-Here are some ideas to get you started:
+Я студентка спеціальності **«Інженерія програмного забезпечення»**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Про мене
+
+- 🎓 Навчаюся на спеціальності «Інженерія програмного забезпечення».
+- 💻 Цікавлюся програмуванням та інформаційними технологіями.
+- 🚀 Вивчаю мови програмування та веброзробку.
+- 📚 Постійно розвиваю свої навички та здобуваю нові знання.
+
+## Навички
+
+- C++
+- HTML
+- CSS
+- Markdown
+
+## Мої цілі
+
+- Покращити навички програмування.
+- Вивчити нові технології.
+- Навчитися створювати власні проєкти.
+
+---
+
+⭐ Дякую за відвідування мого профілю!
