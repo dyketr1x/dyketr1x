@@ -25,7 +25,8 @@
 - Навчитися створювати власні проєкти.
 
 ## Зв'язок
-[Telegram](t.me/dyketrix)
+---
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)(https://t.me/dyketrix)]
 ---
 
 ⭐ Дякую за відвідування мого профілю!
