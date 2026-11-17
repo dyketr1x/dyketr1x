@@ -16,7 +16,7 @@
 - C++
 - HTML
 - CSS
-- Markdown
+- JavaScript
 
 ## Мої цілі
 
